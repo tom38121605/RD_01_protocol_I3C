@@ -1,0 +1,15 @@
+
+1. https://www.hackster.io/news/kai-gossner-s-i3c-blaster-turns-a-raspberry-pi-pico-into-a-handy-usb-to-i3c-bridge-e371c50039e0.amp    //有主图的基本介绍，有putty
+
+
+2.  https://github.com/xyphro/I3CBlaster                          // github上，i3cblaster源程序，往下拉，会有使用说明和中文翻译，python示例代码
+2.  https://github.com/xyphro/I3CBlaster?tab=readme-ov-file       // 使用说明，没有中文翻译
+
+3. https://www.mouser.hk/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D     //树莓派 0915购买  30元
+
+4. https://www.mouser.hk/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D
+
+
+9. https://github.com/xyphro/XyphroLabs-I3C-Saleae-Protocol-Analyzer?tab=readme-ov-file#readme    // 一个辅助工具Analyzer的使用说明  （先忽略）
+
+
